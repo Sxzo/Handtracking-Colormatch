@@ -27,8 +27,7 @@ Here's a gameplay example:
 
 ![alt text](https://github.com/Sxzo/Handtracking-Colormatch/blob/main/gameplay_hand.gif?raw=true)
 
-
-
+Enjoy! My high score was 30. 
 
 
 
