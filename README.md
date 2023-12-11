@@ -25,7 +25,7 @@ From there, the game runs with if conditions in a PyGame loop to update the game
 
 Here's a gameplay example:
 
-![alt text](https://github.com/Sxzo/Handtracking-Colormatch/blob/main/colormatch_gameplay.mp4?raw=true)
+![alt text](https://github.com/Sxzo/Handtracking-Colormatch/blob/main/gameplay.gif?raw=true)
 
 
 
