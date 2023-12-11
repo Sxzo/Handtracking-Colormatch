@@ -19,11 +19,13 @@ You play as a colored cube moving against oncoming different colored blocks. For
 
 The backend uses openCV and mediapipe to process your webcam feed and track your hand. 
 
-![alt text](https://github.com/Sxzo/Handtracking-Colormatch/blob/main/handtrack.png?raw=true))
+![alt text](https://github.com/Sxzo/Handtracking-Colormatch/blob/main/handtrack.png?raw=true)
 
 From there, the game runs with if conditions in a PyGame loop to update the game screen. 
 
 Here's a gameplay example:
+
+![alt text](https://github.com/Sxzo/Handtracking-Colormatch/blob/main/colormatch_gameplay.mp4?raw=true)
 
 
 
